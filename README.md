@@ -1,5 +1,9 @@
 # assignment1
 
+<!-- repository-summary -->
+A Jenkins declarative-pipeline exercise using a develop-based Git workflow and placeholder build and test stages.
+<!-- /repository-summary -->
+
 A small Jenkins CI/CD practice repository for testing a declarative pipeline
 against a `develop`-based Git workflow.
 
