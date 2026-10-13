@@ -1,5 +1,12 @@
 # assignment1
 
+## Overview
+
+A Jenkins practice repository for running a declarative pipeline against a `develop`-based Git workflow. The root `Jenkinsfile` has a Checkout stage that pulls the `develop` branch, with the remaining stages left as placeholders. A copy of the same pipeline sits in `Assignment1/` with an empty test file to try running it from a subdirectory, and a `feature-branch` exists for practicing branch-based triggers.
+
+- **Built with:** Jenkins declarative pipeline, Git
+- **Scope:** Course assignment sandbox; the build and test stages are placeholders and nothing is deployed.
+
 <!-- project-guide:start -->
 ## Project guide
 
